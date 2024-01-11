@@ -1,0 +1,4 @@
+Ksh.2000000 deposited in account, New balance was Ksh.2000000
+Ksh.60000 deposited in account, New balance was Ksh.2060000
+Ksh.20000 deposited in account, New balance was Ksh.2080000
+Ksh.100000 sent to COOPERATIVE's account of Henry, New balance was 1980000
